@@ -1,7 +1,7 @@
 # Java-Music-Programming-with-JFugue
 Reference material for JFugue article
 
-JFugue instruments:
+## JFugue instruments:
 
 |   Instrument Group	|  Instrument Value	|   
 |---	|---	|
@@ -151,7 +151,7 @@ JFugue instruments:
 | | |  
 
 
-## Percussion Instruments
+## Percussion Instruments:
 ```
 ACOUSTIC_BASS_DRUM 
 RIDE_CYMBAL_2
