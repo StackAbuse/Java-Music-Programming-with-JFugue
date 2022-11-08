@@ -11,7 +11,7 @@ Reference material for JFugue article
 |   Piano	|   HONKEY_TONK	| 
 |   Piano		|   ELECTRIC_PIANO 	| 
 |   Piano		|   ELECTRIC_PIANO_2	| 
-|   Piano		|   HARPISCHORD	| 
+|   Piano		|   HARPSICHORD	| 
 |   Piano			|   CLAVINET	| 
 |---	|---	|
 | Chromatic Percussion | CELESTA |
